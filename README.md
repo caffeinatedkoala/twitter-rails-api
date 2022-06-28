@@ -1,4 +1,4 @@
-# README
+# About this project
 
 This project contains the source code for a Twitter clone REST API, built using
 Ruby on Rails.
